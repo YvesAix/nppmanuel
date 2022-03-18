@@ -4,7 +4,7 @@ title: Téléchargement
 ---
 L'adresse officielle suivante pointe vers la page de téléchargement de la dernière version en date :
 
-[http://notepad-plus-plus.org/fr/download](http://notepad-plus-plus.org/fr/download){:.btn-call}
+[http://notepad-plus-plus.org/download](http://notepad-plus-plus.org/download){:.btn-call}
 
 
 Plusieurs liens sont proposés, et l'installateur est la fichier le plus courant. Il s'agit d'un fichier exécutable offrant une [installation pas-à-pas](installation.md) avec fenêtre et options.
